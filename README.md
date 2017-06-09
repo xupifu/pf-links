@@ -62,4 +62,5 @@
 - [使用分区创建OSD](http://dachary.org/?p=3037)
 - [大数据相关论文](http://www.jianshu.com/p/7ffa50f4d4f0)
 - [红包在线技术峰会回顾集锦](https://yq.aliyun.com/articles/70747?spm=5176.100239.blogcont71295.23.DM7GlF)
+- [文件hosts](https://github.com/racaljk/hosts)
 
