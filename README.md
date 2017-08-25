@@ -56,6 +56,7 @@
 
 ## Misc
 
+- [woboq: C/C++ Code Browser](https://code.woboq.org/)
 - [JSON官方说明](http://www.json.org/json-zh.html)
 - [阮一峰，数据类型和JSON格式](http://www.ruanyifeng.com/blog/2009/05/data_types_and_json.html)
 - [SSD横向评测](https://www.chiphell.com/thread-1643461-1-1.html)
@@ -63,4 +64,15 @@
 - [大数据相关论文](http://www.jianshu.com/p/7ffa50f4d4f0)
 - [红包在线技术峰会回顾集锦](https://yq.aliyun.com/articles/70747?spm=5176.100239.blogcont71295.23.DM7GlF)
 - [文件hosts](https://github.com/racaljk/hosts)
+- [配置：x-data-plane](https://github.com/smilejay/kvm-book/blob/master/conf/virtio-blk-data-plane-configure.diff)
+- [VMWare Misc](http://chuansong.me/n/1289949551278)
+- [VMWare兼容性产品](http://www.vmware.com/resources/compatibility)
+- [虚拟化技术漫谈](http://mamicode.com/info-detail-1166772.html)
+- [VMWare兼容性认证简要流程](http://www.intelserveredge.com/pass-through-certification/vmware/)
+- [Windows证书/签名获取](https://docs.microsoft.com/en-us/windows-hardware/drivers/dashboard/get-a-code-signing-certificate)
+- [NVMe Windows Driver](http://www.nvmexpress.org/windows-driver-microsoft-inbox/)
+- [虚拟化技术资料](https://www.vladan.fr/)
+- [VMWare hcibench](https://blogs.vmware.com/virtualblocks/2017/07/31/what-to-expect-from-hcibench-1-6-2/)
+- [storageioblog](http://storageioblog.com/server-and-storage-io-benchmarking-resources/)
+
 
